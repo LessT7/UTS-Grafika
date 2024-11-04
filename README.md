@@ -15,4 +15,4 @@
 | 1 | UTS p5.js | Membuat gunung di p5.js |
 
 # SCREENSHOT PROGRAM
-![]()
+![](![Alt text]())
